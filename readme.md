@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Polygon
-*	Theme Version: 1.1
+*	Theme Version: 1.2
 *	Theme Date: 2022-09-11
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
