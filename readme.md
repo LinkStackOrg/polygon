@@ -2,7 +2,7 @@
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Polygon
-*	Theme Version: 1.3
+*	Theme Version: 1.4
 *	Theme Date: 2022-09-11
 *	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
